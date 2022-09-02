@@ -1,0 +1,6 @@
+{
+  "nome": "bruno teste",
+  "email": "%email%",
+  "password": "123teste",
+  "administrador": "true"
+}
