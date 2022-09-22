@@ -3,7 +3,8 @@
 </h1>
 
 <p align="center">
-  <a href="#-projeto">Projeto</a>
+  <a href="#-projeto">🖥️ Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">🚀 Tecnologias</a>
 </p>
 
 <p align="center">
@@ -14,7 +15,7 @@
 
 Repositorio criado para o curso de "Automação de Testes de Performance com Gatling" da DIO.
 
-## 📚 Tópicos abordados
+## 🚀 Tecnologias
 
 - Gatling
 
